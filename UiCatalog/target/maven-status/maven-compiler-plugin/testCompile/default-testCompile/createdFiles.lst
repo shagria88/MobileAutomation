@@ -8,7 +8,6 @@ java/SearchBarPage/SearchBar.class
 java/WebPage/Web.class
 java/TransitionsPage/Transitions.class
 java/UiCatalogPage/UiCatalog.class
-java/ButtonsPage/Buttons.class
 java/AlertsPage/Alerts.class
 java/TextViewPage/TextView.class
 java/PickersPage/Picker.class
