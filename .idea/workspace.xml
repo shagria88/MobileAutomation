@@ -2,52 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e1da09d-4abb-424a-acd3-4b2ff45581e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/UiCatalog/src/test/java/java/ControlsPage/TestControls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UiCatalog/src/test/java/java/SearchBarPage/TestSearchBar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/common/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/common/Base.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/target/NYPost-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/NYPost-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/src/main/java/AlertsPage/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/src/main/java/AlertsPage/Alerts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/src/main/java/ButtonsPage/Buttons.java" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/src/main/java/ButtonsPage/Buttons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/src/main/java/ControlsPage/Controls.java" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/src/main/java/ControlsPage/Controls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/src/main/java/SearchBarPage/SearchBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/src/main/java/SearchBarPage/SearchBar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/src/main/java/TextFieldsPage/TextFields.java" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/src/main/java/TextFieldsPage/TextFields.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/src/test/java/java/AlertsPage/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/src/test/java/java/AlertsPage/TestAlerts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/src/test/java/java/ButtonsPage/Buttons.java" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/src/test/java/java/ButtonsPage/TestButtons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/src/test/java/java/ControlsPage/Controls.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/src/test/java/java/SearchBarPage/SearchBar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/src/test/java/java/TextFieldsPage/TextFields.java" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/src/test/java/java/TextFieldsPage/TestTextFields.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/src/test/resources/cataLogAppTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/src/test/resources/cataLogAppTestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/classes/AlertsPage/Alerts.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/classes/AlertsPage/Alerts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/classes/ButtonsPage/Buttons.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/classes/ButtonsPage/Buttons.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/classes/ControlsPage/Controls.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/classes/ControlsPage/Controls.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/classes/ImgesPage/Images.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/classes/ImgesPage/Images.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/classes/PickersPage/Picker.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/classes/PickersPage/Picker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/classes/SearchBarPage/SearchBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/classes/SearchBarPage/SearchBar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/classes/SegmentsPage/Segments.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/classes/SegmentsPage/Segments.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/classes/TextFieldsPage/TextFields.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/classes/TextFieldsPage/TextFields.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/classes/TextViewPage/TextView.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/classes/TextViewPage/TextView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/classes/ToolbarPage/Toolbar.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/classes/ToolbarPage/Toolbar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/classes/TransitionsPage/Transitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/classes/TransitionsPage/Transitions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/classes/WebPage/Web.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/classes/WebPage/Web.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/classes/navigate/NavigateUi.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/classes/navigate/NavigateUi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/test-classes/cataLogAppTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/test-classes/cataLogAppTestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/AlertsPage/Alerts.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/AlertsPage/Alerts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/ButtonsPage/Buttons.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/ControlsPage/Controls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/ImgesPage/Images.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/ImgesPage/Images.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/PickersPage/Picker.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/PickersPage/Picker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/SearchBarPage/SearchBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/SearchBarPage/SearchBar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/SegmentsPage/Segments.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/SegmentsPage/Segments.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/TextFieldsPage/TextFields.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/TextFieldsPage/TextFields.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/TextViewPage/TextView.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/TextViewPage/TextView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/ToolbarPage/Toolbar.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/ToolbarPage/Toolbar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/TransitionsPage/Transitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/TransitionsPage/Transitions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/WebPage/Web.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/WebPage/Web.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/navigate/NavigateUi.class" beforeDir="false" afterPath="$PROJECT_DIR$/UiCatalog/target/test-classes/java/navigate/NavigateUi.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -65,7 +20,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UiCatalog/src/main/java/PickersPage/Picker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
+            <state relative-caret-position="133">
               <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
@@ -116,6 +71,7 @@
         <option value="$PROJECT_DIR$/Generic/src/main/java/common/Base.java" />
         <option value="$PROJECT_DIR$/UiCatalog/src/test/java/java/TextFieldsPage/TestTextFields.java" />
         <option value="$PROJECT_DIR$/UiCatalog/src/main/java/TextFieldsPage/TextFields.java" />
+        <option value="$PROJECT_DIR$/NYPost/src/main/java/HomePage/HomePageMenu.java" />
       </list>
     </option>
   </component>
@@ -211,7 +167,50 @@
               <item name="MobileAutomationFrameworkkabirNov2018" type="462c0819:PsiDirectoryNode" />
               <item name="NYPost" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileAutomationFrameworkkabirNov2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MobileAutomationFrameworkkabirNov2018" type="462c0819:PsiDirectoryNode" />
+              <item name="NYPost" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileAutomationFrameworkkabirNov2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MobileAutomationFrameworkkabirNov2018" type="462c0819:PsiDirectoryNode" />
+              <item name="UiCatalog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileAutomationFrameworkkabirNov2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MobileAutomationFrameworkkabirNov2018" type="462c0819:PsiDirectoryNode" />
+              <item name="UiCatalog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileAutomationFrameworkkabirNov2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MobileAutomationFrameworkkabirNov2018" type="462c0819:PsiDirectoryNode" />
+              <item name="UiCatalog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileAutomationFrameworkkabirNov2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MobileAutomationFrameworkkabirNov2018" type="462c0819:PsiDirectoryNode" />
+              <item name="UiCatalog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MobileAutomationFrameworkkabirNov2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MobileAutomationFrameworkkabirNov2018" type="462c0819:PsiDirectoryNode" />
+              <item name="UiCatalog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="AlertsPage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,7 +221,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548470148004" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548470485082" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -401,7 +400,7 @@
   <component name="ToolWindowManager">
     <frame x="311" y="53" width="1243" height="831" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979185" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24979185" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -410,12 +409,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32882273" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32882273" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32882273" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.15155616" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.15155616" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32882273" />
@@ -723,9 +722,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/NYPost/src/main/java/HomePage/HomePageMenu.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/UiCatalog/src/main/java/PickersPage/Picker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
+        <state relative-caret-position="133">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
