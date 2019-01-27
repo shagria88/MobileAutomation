@@ -1,13 +1,4 @@
-java/TextFieldsPage/TextFields.class
-java/ImgesPage/Images.class
 java/navigate/NavigateUi.class
-java/ToolbarPage/Toolbar.class
-java/ControlsPage/Controls.class
-java/SegmentsPage/Segments.class
-java/SearchBarPage/SearchBar.class
-java/WebPage/Web.class
-java/TransitionsPage/Transitions.class
 java/UiCatalogPage/UiCatalog.class
-java/AlertsPage/Alerts.class
 java/TextViewPage/TextView.class
 java/PickersPage/Picker.class

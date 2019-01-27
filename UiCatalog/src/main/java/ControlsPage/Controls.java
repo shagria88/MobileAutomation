@@ -53,8 +53,7 @@ public class Controls extends Base {
     public static WebElement customSliderButton;
 
 
-    public void checkButtonsWholePage(){
-        controlsWholePage.click();
+    public void checkButtonsWholePage(){ controlsWholePage.click();
     }
     public void checkSwitchOption(){
         switchOption.click();
