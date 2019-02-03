@@ -10,15 +10,15 @@
 
     <test name="Go to Home page" preserve-order="true">
         <classes>
-            <class name="AlertsPage.Alerts"/>
-            <class name="ButtonsPage.Buttons"/>
-            <class name="ControlsPage.Controls"/>
-            <class name="ImgesPage.Images"/>
-            <class name="SegmentsPage.Segments"/>
-            <class name="TextFieldsPage.TextFields"/>
-            <class name="TransitionsPage.Transitions"/>
-            <class name="UiCatalogPage.UiCatalog"/>
-            <class name="WebPage.Web"/>
+            <class name="alertsPage.Alerts"/>
+            <class name="buttonsPage.Buttons"/>
+            <class name="controlsPage.Controls"/>
+            <class name="imgesPage.Images"/>
+            <class name="segmentsPage.Segments"/>
+            <class name="textFieldsPage.TextFields"/>
+            <class name="transitionsPage.Transitions"/>
+            <class name="uiCatalogPage.UiCatalog"/>
+            <class name="webPage.Web"/>
 
         </classes>
     </test>
